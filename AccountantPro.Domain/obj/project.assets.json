@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mansu\\source\\repos\\AccountantPro.Domain\\AccountantPro.Domain\\AccountantPro.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\mansu\\Source\\Repos\\AccountantPro\\AccountantPro.Domain\\AccountantPro.Domain.csproj",
       "projectName": "AccountantPro.Domain",
-      "projectPath": "C:\\Users\\mansu\\source\\repos\\AccountantPro.Domain\\AccountantPro.Domain\\AccountantPro.Domain.csproj",
+      "projectPath": "C:\\Users\\mansu\\Source\\Repos\\AccountantPro\\AccountantPro.Domain\\AccountantPro.Domain.csproj",
       "packagesPath": "C:\\Users\\mansu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mansu\\source\\repos\\AccountantPro.Domain\\AccountantPro.Domain\\obj\\",
+      "outputPath": "C:\\Users\\mansu\\Source\\Repos\\AccountantPro\\AccountantPro.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

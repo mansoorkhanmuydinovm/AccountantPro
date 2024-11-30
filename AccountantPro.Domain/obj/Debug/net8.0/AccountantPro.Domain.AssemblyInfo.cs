@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountantPro.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20d04d11e68ca9b5003a831863eaaefd2614fac7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9b54ec02744dc8aafc2d81972bd984cf6f8c1ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountantPro.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountantPro.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

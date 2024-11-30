@@ -5,5 +5,6 @@ public enum Size
     kg,
     dona,
     shtuk,
-    tonna
+    tonna,
+    djhf
 }
